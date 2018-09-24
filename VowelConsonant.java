@@ -9,9 +9,9 @@ import java.io.*;
 
         char ch = 'f';
         if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' )
-            System.out.println( "  vowel");
+            System.out.println("Vowel");
         else
-            System.out.println(" Consonant");
+            System.out.println("Consonant");
 
     }
 }
