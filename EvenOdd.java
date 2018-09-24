@@ -10,8 +10,8 @@ import java.util.Scanner;
         int num = reader.nextInt();
 
         if(num % 2 == 0)
-            System.out.println( " Even");
+            System.out.println( num+"");
         else
-            System.out.println(" invalid");
+            System.out.println(num+" ");
     }
 }
