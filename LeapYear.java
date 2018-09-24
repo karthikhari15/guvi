@@ -61,11 +61,11 @@ year=in.nextInt();
   
       if(leap)
            
- System.out.println("no");
+ System.out.println("yes");
     
     else
           
-  System.out.println("yes");
+  System.out.println("no");
     
 }
 
