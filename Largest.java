@@ -12,10 +12,12 @@ import java.io.*;
  public static void main(String[] args)
  {
 
-     
-   int n1 = 1, n2 = 1, n3 = -1;
-
-       
+     Scanner in = new Scanner(System.in);
+   int n1 , n2 , n3 ;
+   
+n1=in.nextInt();
+       n2=in.nextInt();
+       n3=in.nextInt();
  if( n1 >= n2 && n1 >= n3)
            
  System.out.println(n1 + "");
